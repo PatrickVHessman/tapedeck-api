@@ -17,7 +17,7 @@ builder.Services.AddTransient<StatusService, StatusService>();
 builder.Services.AddTransient<ElementalTypesService, ElementalTypesService>();
 builder.Services.AddTransient<SpeciesService, SpeciesService>();
 builder.Services.AddTransient<MovesService, MovesService>();
-builder.Services.AddTransient<DataManagementService, DataManagementService>();
+//builder.Services.AddTransient<DataManagementService, DataManagementService>();
 builder.Services.AddTransient<FusionService, FusionService>();
 
 builder.Services.AddCors(options =>
