@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CassetteBeastsAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+35e3716742af8b4397722e08e4d47ceeb0d53286")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1c05c94b9d61f5262b6990449ca44d5445ed2310")]
 [assembly: System.Reflection.AssemblyProductAttribute("CassetteBeastsAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CassetteBeastsAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

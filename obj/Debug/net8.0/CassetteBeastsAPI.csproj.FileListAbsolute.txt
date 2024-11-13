@@ -775,3 +775,4 @@ C:\Users\hessman\Development\tapedeck\tapedeck-backend\tapedeck-api\obj\Debug\ne
 C:\Users\hessman\Development\tapedeck\tapedeck-backend\tapedeck-api\obj\Debug\net8.0\CassetteBeastsAPI.pdb
 C:\Users\hessman\Development\tapedeck\tapedeck-backend\tapedeck-api\obj\Debug\net8.0\CassetteBeastsAPI.genruntimeconfig.cache
 C:\Users\hessman\Development\tapedeck\tapedeck-backend\tapedeck-api\obj\Debug\net8.0\ref\CassetteBeastsAPI.dll
+C:\Users\hessman\Development\tapedeck\tapedeck-backend\tapedeck-api\obj\Debug\net8.0\CassetteBeastsAPI.sourcelink.json

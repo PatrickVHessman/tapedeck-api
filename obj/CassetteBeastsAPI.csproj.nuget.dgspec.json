@@ -77,10 +77,6 @@
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.7.0, )"
-            },
-            "System.Security.Cryptography.Algorithms": {
-              "target": "Package",
-              "version": "[4.3.1, )"
             }
           },
           "imports": [
