@@ -118,7 +118,7 @@
 //        [HttpGet("TestDataMgmt")]
 //        public async Task<IResult> TestDataMgmt()
 //        {
-//            string result =  _dataManagementService.TestDataMgmt();
+//            string result = _dataManagementService.TestDataMgmt();
 
 //            if (result != null)
 //                return Results.Ok(result);

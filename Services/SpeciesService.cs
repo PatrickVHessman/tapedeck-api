@@ -92,6 +92,7 @@ namespace CassetteBeastsAPI.Services
                     Power = x.Power,
                     Accuracy = x.Accuracy,
                     ApCost = x.ApCost,
+                    Description = x.Description
                 };
                 learnedMoves.Add(item);
             });
@@ -108,6 +109,7 @@ namespace CassetteBeastsAPI.Services
                     Power = x.Power,
                     Accuracy = x.Accuracy,
                     ApCost = x.ApCost,
+                    Description = x.Description
                 };
                 learnedMoves.Add(item);
             });
@@ -126,6 +128,7 @@ namespace CassetteBeastsAPI.Services
                         Power = x.Power,
                         Accuracy = x.Accuracy,
                         ApCost = x.ApCost,
+                        Description = x.Description
                     };
                     stickerMoves.Add(item);
                 }
