@@ -7315,24 +7315,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\hessman\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\krims\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hessman\\Development\\tapedeck\\tapedeck-backend\\tapedeck-api\\CassetteBeastsAPI.csproj",
+      "projectUniqueName": "C:\\Users\\krims\\Documents\\tapedeck\\api\\tapedeck-api\\CassetteBeastsAPI.csproj",
       "projectName": "CassetteBeastsAPI",
-      "projectPath": "C:\\Users\\hessman\\Development\\tapedeck\\tapedeck-backend\\tapedeck-api\\CassetteBeastsAPI.csproj",
-      "packagesPath": "C:\\Users\\hessman\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hessman\\Development\\tapedeck\\tapedeck-backend\\tapedeck-api\\obj\\",
+      "projectPath": "C:\\Users\\krims\\Documents\\tapedeck\\api\\tapedeck-api\\CassetteBeastsAPI.csproj",
+      "packagesPath": "C:\\Users\\krims\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\krims\\Documents\\tapedeck\\api\\tapedeck-api\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\hessman\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\krims\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -7341,8 +7336,7 @@
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "C:\\Program Files\\dotnet\\library-packs": {},
-        "https://api.nuget.org/v3/index.json": {},
-        "https://nuget.telerik.com/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
@@ -7354,6 +7348,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -7412,7 +7411,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.111/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
